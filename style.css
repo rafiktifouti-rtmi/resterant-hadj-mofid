@@ -153,6 +153,8 @@ section a {
     nav a {
         display: block;
         margin: 5px 0;
+        font-size: 16px;
+
     }
     .menu-item {
         width: 130px;
