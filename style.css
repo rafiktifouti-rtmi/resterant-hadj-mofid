@@ -124,7 +124,8 @@ img {
     text-align: center;
     align-items: center;
     justify-content: space-evenly;
-    gap: 14rem;
+    gap: 11rem;
+    flex-wrap: wrap;
 }
 .emailphone {
     display: flex;
